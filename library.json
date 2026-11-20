@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "title": "3D & AR Model Library",
+  "models": [
+    {
+      "slug": "animated-demo-excavator",
+      "title": "Animated demo excavator",
+      "description": "Animated demo excavator. Tap the boom, stick, bucket or cab to see it move.",
+      "tags": [
+        "MJ Excavating",
+        "Equipment",
+        "Demo"
+      ],
+      "mode": "ar",
+      "preview": "models/animated-demo-excavator/preview.jpg",
+      "markers": 6,
+      "size": 12364,
+      "updated": "2026-11-20T17:10:21.659Z"
+    }
+  ],
+  "updated": "2026-11-20T17:10:21.743Z"
+}
